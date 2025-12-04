@@ -272,12 +272,12 @@ fi
 echo -e "\n${YELLOW}第二步：输入应用配置参数（直接回车使用默认值）${NC}"
 
 # 1. 输入 muserId
-DEFAULT_MUSER_ID="1809453805"
+DEFAULT_MUSER_ID="180XXXXXX"
 read -p "请输入 muserId（默认：$DEFAULT_MUSER_ID）：" MUSER_ID
 MUSER_ID=${MUSER_ID:-$DEFAULT_MUSER_ID}
 
 # 2. 输入 mtoken
-DEFAULT_MTOKEN="nlps0F2CDBC2A96ABD03DF3D"
+DEFAULT_MTOKEN="nlpsXXXXXXX"
 read -p "请输入 mtoken（默认：$DEFAULT_MTOKEN）：" MTOKEN
 MTOKEN=${MTOKEN:-$DEFAULT_MTOKEN}
 
