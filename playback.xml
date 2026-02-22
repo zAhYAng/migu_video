@@ -477,11 +477,11 @@
     <programme channel="CCTV5体育" start="20260222000000 +0800" stop="20260222001500 +0800">
         <title lang="zh">滚动新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222001500 +0800" stop="20260222023000 +0800">
+    <programme channel="CCTV5体育" start="20260222001500 +0800" stop="20260222020500 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 速度滑冰女子集体出发决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222023000 +0800" stop="20260222040500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池决赛</title>
+    <programme channel="CCTV5体育" start="20260222020500 +0800" stop="20260222040500 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶 男子决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222040500 +0800" stop="20260222051500 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 女子双人第4轮</title>
@@ -508,7 +508,7 @@
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 冰壶男子决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222110000 +0800" stop="20260222120000 +0800">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池决赛</title>
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 雪车女子第3、4轮</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222120000 +0800" stop="20260222130500 +0800">
         <title lang="zh">体坛快讯-米兰最前沿</title>
@@ -519,28 +519,25 @@
     <programme channel="CCTV5体育" start="20260222140500 +0800" stop="20260222143000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子障碍追逐决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222143000 +0800" stop="20260222150000 +0800">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 冬季两项女子12.5公里集体出发</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260222150000 +0800" stop="20260222160000 +0800">
+    <programme channel="CCTV5体育" start="20260222143000 +0800" stop="20260222160000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子、女子集体出发</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222160000 +0800" stop="20260222170000 +0800">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 滑雪登山混合接力</title>
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 花样滑冰 表演滑</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222170000 +0800" stop="20260222180500 +0800">
+    <programme channel="CCTV5体育" start="20260222170000 +0800" stop="20260222173000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 男子4人第3轮</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222180500 +0800" stop="20260222191200 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶女子决赛</title>
+    <programme channel="CCTV5体育" start="20260222173000 +0800" stop="20260222191500 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222191200 +0800" stop="20260222195700 +0800">
+    <programme channel="CCTV5体育" start="20260222191500 +0800" stop="20260222195700 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 男子4人第4轮</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222195700 +0800" stop="20260222210000 +0800">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池决赛</title>
+    <programme channel="CCTV5体育" start="20260222195700 +0800" stop="20260222211000 +0800">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 中国队赛事金牌集锦</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222210000 +0800" stop="20260222235900 +0800">
+    <programme channel="CCTV5体育" start="20260222211000 +0800" stop="20260222235900 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰球男子决赛</title>
     </programme>
     <channel id="CCTV5+体育赛事">
@@ -549,11 +546,11 @@
     <programme channel="CCTV5+体育赛事" start="20260222000000 +0800" stop="20260222004000 +0800">
         <title lang="zh">2025/2026德国足球甲级联赛-第23轮（拜仁慕尼黑—法兰克福）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260222004000 +0800" stop="20260222020500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260222004000 +0800" stop="20260222020000 +0800">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 花样滑冰双人滑（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260222020500 +0800" stop="20260222050500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶 男子决赛</title>
+    <programme channel="CCTV5+体育赛事" start="20260222020000 +0800" stop="20260222050500 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 女子双人第3轮</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260222050500 +0800" stop="20260222063000 +0800">
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第23轮 长白山恩都里—浙江方兴渡</title>
@@ -585,14 +582,8 @@
     <programme channel="CCTV5+体育赛事" start="20260222170000 +0800" stop="20260222180000 +0800">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260222180000 +0800" stop="20260222191500 +0800">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池决赛</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20260222191500 +0800" stop="20260222200000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 男子4人第4轮</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20260222200000 +0800" stop="20260222213000 +0800">
-        <title lang="zh">2026年世乒联大满贯（新加坡站）-第1轮2</title>
+    <programme channel="CCTV5+体育赛事" start="20260222180000 +0800" stop="20260222213000 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶女子决赛</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260222213000 +0800" stop="20260222215500 +0800">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 钢架雪车混合团体（4K）</title>
@@ -8364,110 +8355,101 @@
     <channel id="陕西都市青春频道">
         <display-name lang="zh">陕西都市青春频道</display-name>
     </channel>
-    <programme channel="陕西都市青春频道" start="20260222000000 +0800" stop="20260222001500 +0800">
-        <title lang="zh">午夜剧场：岁岁年年柿柿红</title>
+    <programme channel="陕西都市青春频道" start="20260222000000 +0800" stop="20260222003300 +0800">
+        <title lang="zh">2026陕西老年春节联欢晚会</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222001500 +0800" stop="20260222005700 +0800">
-        <title lang="zh">午夜剧场：岁岁年年柿柿红</title>
+    <programme channel="陕西都市青春频道" start="20260222003300 +0800" stop="20260222012000 +0800">
+        <title lang="zh">午夜剧场：岁岁年年柿柿红 22</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222005700 +0800" stop="20260222054700 +0800">
-        <title lang="zh">长安故事 剧说那些事</title>
+    <programme channel="陕西都市青春频道" start="20260222012000 +0800" stop="20260222054700 +0800">
+        <title lang="zh">午夜剧场：岁岁年年柿柿红 23</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260222054700 +0800" stop="20260222062000 +0800">
         <title lang="zh">好管家重播</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222062000 +0800" stop="20260222065000 +0800">
+    <programme channel="陕西都市青春频道" start="20260222062000 +0800" stop="20260222070500 +0800">
         <title lang="zh">练起来</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222065000 +0800" stop="20260222070500 +0800">
-        <title lang="zh">教育起跑线重播</title>
+    <programme channel="陕西都市青春频道" start="20260222070500 +0800" stop="20260222073900 +0800">
+        <title lang="zh">晨光剧场：大秧歌 93</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222070500 +0800" stop="20260222073500 +0800">
-        <title lang="zh">晨光剧场：大秧歌</title>
-    </programme>
-    <programme channel="陕西都市青春频道" start="20260222073500 +0800" stop="20260222080900 +0800">
-        <title lang="zh">晨光剧场：大秧歌</title>
+    <programme channel="陕西都市青春频道" start="20260222073900 +0800" stop="20260222080900 +0800">
+        <title lang="zh">晨光剧场：大秧歌 94</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260222080900 +0800" stop="20260222083900 +0800">
-        <title lang="zh">晨光剧场：大秧歌</title>
+        <title lang="zh">晨光剧场：大秧歌 95</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222083900 +0800" stop="20260222090500 +0800">
+    <programme channel="陕西都市青春频道" start="20260222083900 +0800" stop="20260222090900 +0800">
         <title lang="zh">专题节目一</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222090500 +0800" stop="20260222093800 +0800">
-        <title lang="zh">晨光剧场：大秧歌</title>
+    <programme channel="陕西都市青春频道" start="20260222090900 +0800" stop="20260222093900 +0800">
+        <title lang="zh">晨光剧场：大秧歌 96</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222093800 +0800" stop="20260222101200 +0800">
-        <title lang="zh">晨光剧场：大秧歌</title>
+    <programme channel="陕西都市青春频道" start="20260222093900 +0800" stop="20260222101400 +0800">
+        <title lang="zh">晨光剧场：大秧歌 97</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222101200 +0800" stop="20260222104800 +0800">
-        <title lang="zh">晨光剧场：大秧歌</title>
+    <programme channel="陕西都市青春频道" start="20260222101400 +0800" stop="20260222104800 +0800">
+        <title lang="zh">晨光剧场：大秧歌 98</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260222104800 +0800" stop="20260222111800 +0800">
-        <title lang="zh">晨光剧场：大秧歌</title>
+        <title lang="zh">晨光剧场：大秧歌 99</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260222111800 +0800" stop="20260222114500 +0800">
         <title lang="zh">专题节目四</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222114500 +0800" stop="20260222121500 +0800">
-        <title lang="zh">都市快报重播</title>
+    <programme channel="陕西都市青春频道" start="20260222114500 +0800" stop="20260222122000 +0800">
+        <title lang="zh">长安故事 剧说那些事</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222121500 +0800" stop="20260222124500 +0800">
+    <programme channel="陕西都市青春频道" start="20260222122000 +0800" stop="20260222125000 +0800">
         <title lang="zh">专题节目五</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222124500 +0800" stop="20260222131500 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
+    <programme channel="陕西都市青春频道" start="20260222125000 +0800" stop="20260222132000 +0800">
+        <title lang="zh">青春剧场：爱国者 44</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222131500 +0800" stop="20260222134300 +0800">
+    <programme channel="陕西都市青春频道" start="20260222132000 +0800" stop="20260222134800 +0800">
         <title lang="zh">专题节目六</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222134300 +0800" stop="20260222141300 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
+    <programme channel="陕西都市青春频道" start="20260222134800 +0800" stop="20260222141800 +0800">
+        <title lang="zh">青春剧场：爱国者 45</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222141300 +0800" stop="20260222145000 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
+    <programme channel="陕西都市青春频道" start="20260222141800 +0800" stop="20260222150300 +0800">
+        <title lang="zh">青春剧场：爱国者 46</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222145000 +0800" stop="20260222152000 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
+    <programme channel="陕西都市青春频道" start="20260222150300 +0800" stop="20260222153300 +0800">
+        <title lang="zh">青春剧场：爱国者 47</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222152000 +0800" stop="20260222155500 +0800">
+    <programme channel="陕西都市青春频道" start="20260222153300 +0800" stop="20260222161400 +0800">
         <title lang="zh">专题节目七A</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222155500 +0800" stop="20260222164200 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
+    <programme channel="陕西都市青春频道" start="20260222161400 +0800" stop="20260222171200 +0800">
+        <title lang="zh">青春剧场：爱国者 48</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222164200 +0800" stop="20260222171900 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
+    <programme channel="陕西都市青春频道" start="20260222171200 +0800" stop="20260222174200 +0800">
+        <title lang="zh">青春剧场：爱国者 49</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222171900 +0800" stop="20260222174900 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
-    </programme>
-    <programme channel="陕西都市青春频道" start="20260222174900 +0800" stop="20260222182500 +0800">
+    <programme channel="陕西都市青春频道" start="20260222174200 +0800" stop="20260222181800 +0800">
         <title lang="zh">专题节目九</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222182500 +0800" stop="20260222190700 +0800">
-        <title lang="zh">青春剧场：爱国者</title>
+    <programme channel="陕西都市青春频道" start="20260222181800 +0800" stop="20260222190700 +0800">
+        <title lang="zh">都市热线</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260222190700 +0800" stop="20260222195800 +0800">
-        <title lang="zh">都市剧场：全家福</title>
+        <title lang="zh">都市剧场：全家福 41</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260222195800 +0800" stop="20260222204800 +0800">
-        <title lang="zh">都市剧场：全家福</title>
+        <title lang="zh">都市剧场：全家福 42</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260222204800 +0800" stop="20260222213000 +0800">
-        <title lang="zh">都市剧场：全家福</title>
+        <title lang="zh">都市剧场：全家福 43</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222213000 +0800" stop="20260222221500 +0800">
-        <title lang="zh">温暖坐标：都市快报闪光2025奔赴2026年度盘点</title>
+    <programme channel="陕西都市青春频道" start="20260222213000 +0800" stop="20260222221000 +0800">
+        <title lang="zh">陕西都市快报</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222221500 +0800" stop="20260222231000 +0800">
+    <programme channel="陕西都市青春频道" start="20260222221000 +0800" stop="20260222230000 +0800">
         <title lang="zh">专题节目十</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260222231000 +0800" stop="20260222235500 +0800">
-        <title lang="zh">午夜剧场：岁岁年年柿柿红</title>
-    </programme>
-    <programme channel="陕西都市青春频道" start="20260222235500 +0800" stop="20260223000000 +0800">
-        <title lang="zh">午夜剧场：岁岁年年柿柿红</title>
+    <programme channel="陕西都市青春频道" start="20260222230000 +0800" stop="20260223000000 +0800">
+        <title lang="zh">2026丝路春晚</title>
     </programme>
     <channel id="陕西秦腔频道">
         <display-name lang="zh">陕西秦腔频道</display-name>
